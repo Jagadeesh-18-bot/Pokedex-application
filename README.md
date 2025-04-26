@@ -1,10 +1,5 @@
 # Pokémon Rescue 🌟
 
-## Introduction  
-Hello everyone! Today, I am sharing a **simple Pokémon search Pokédex application** built using **Python**.  
-
----
-
 ## How to Set Up and Run the Application  
 
 ### Step 1: Clone the Repository  
